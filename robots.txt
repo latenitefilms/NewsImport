@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://latenitefilms.github.io/NewsImport/sitemap.xml.gz
