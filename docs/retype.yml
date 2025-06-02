@@ -1,7 +1,7 @@
 input: .
 output: .retype
 
-url: newsimport.pro
+url: newsimport.fcp.cafe
 
 branding:
   title: News Import
@@ -40,3 +40,8 @@ links:
 
 footer:
   copyright: "&copy; Copyright {{ year }} LateNite Films Pty Ltd. All rights reserved."
+
+poweredByRetype: false
+
+scheme:
+  mode: dark
